@@ -124,7 +124,7 @@
     border: 2px solid whitesmoke;
     border-radius: 50%;
     position: absolute;
-    z-index: 1000;
+    z-index: 10;
 
 }
 /*Mouse Cursor Static on Step 2 to present the touchpoint*/
